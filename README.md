@@ -1,4 +1,4 @@
-## Welcome 👋 , I'm Łukasz Nurzyński.
+## Welcome 👋 , I'm Łukasz.
 
 I'm a software tester based in Lublin PL. I've always been interested in computers and software, and everything in between.
 
